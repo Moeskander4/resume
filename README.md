@@ -7,7 +7,7 @@ This repository contains my updated CV for IT Operations and System Administrati
 
 👉 [Click here to view or download](https://github.com/Moeskander4/resume/raw/main/Mohammed-Eskander-CV.pdf)
 
-## 💼 Focus Areas
+## 💼 Focus Areas:
 
 * Linux System Administration
 * IT Operations
